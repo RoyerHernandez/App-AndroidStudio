@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">yamba</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg_update_credentials">Es necesario ingresar las credenciales</string>
+    <string name="msg_sendedtweet_ok">Se envio el mensaje exitosamente</string>
+    <string name="msg_sendtweet_fail">Se produjo un error al enviar el mensaje</string>
+    <string name="msg_no_connection">No hay Conexion</string>
+    <string name="username_sumary">Usuario summary</string>
+    <string name="username">usuario para ingreso</string>
+    <string name="password_sumary">password sumary</string>
+    <string name="password">password del usuario</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_tweet">Tweet</string>
+    <string name="action_delete">Delete</string>
+    <string name="diag_title_delete">Eliminar</string>
+    <string name="diag_msg_delete">Desea eliminar los datos</string>
+</resources>
